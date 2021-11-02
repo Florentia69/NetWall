@@ -1,0 +1,188 @@
+{
+  "ADS": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "",
+      "main_ads_banner": "",
+      "main_ads_intertitial": "",
+      "backup_ads_banner": "",
+      "backup_ads_intertitial": "",
+      "initialize_sdk": "",
+      "initialize_sdk_backup_ads": "",
+      "interstitial_counter": "3",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "HOME": [
+    {
+      "keyword_home_fragment": "Nature"
+    }
+  ],
+  "DATA": [
+    {
+      "title_search": "Art",
+      "image_url": "https://static01.nyt.com/images/2021/08/15/fashion/TEEN-NFTS--fewocious/TEEN-NFTS--fewocious-videoSixteenByNineJumbo1600.jpg"
+    },
+    {
+      "title_search": "Black Art",
+      "image_url": "https://wallpaperaccess.com/full/316899.jpg"
+    },
+    {
+      "title_search": "Black Animal",
+      "image_url": "https://cdn.wallpapersafari.com/54/7/qW2bG7.jpg"
+    },
+    {
+      "title_search": "Pink Animal",
+      "image_url": "https://i.pinimg.com/originals/41/31/2b/41312b8c4c3d1a08c7c85b894fcb6c26.jpg"
+    },
+    {
+      "title_search": "Anime",
+      "image_url": "https://p4.wallpaperbetter.com/wallpaper/382/991/650/anime-boy-tattoo-colorful-eyes-shape-wallpaper-preview.jpg"
+    },
+    {
+      "title_search": "Anime boy",
+      "image_url": "https://image.winudf.com/v2/image1/aGQuc3R1ZGlvLmFuaW1lLmJveS5jb2xvci5ieS5udW1iZXIucGl4ZWwuYXJ0X3NjcmVlbl8xXzE1OTc5NzI0NDFfMDYy/screen-1.jpg?fakeurl=1&type=.jpg"
+    },
+    {
+      "title_search": "Anime Girl",
+      "image_url": "https://w0.peakpx.com/wallpaper/432/513/HD-wallpaper-anime-girl-cool-nice-refrishin-thumbnail.jpg"
+    },
+    {
+      "title_search": "Black Amoled",
+      "image_url": "https://images.unsplash.com/photo-1543252358-f20f9c57bafe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MnwxMTI3ODI4fHxlbnwwfHx8fA%3D%3D&w=1000&q=80"
+    },
+    {
+      "title_search": "Games",
+      "image_url": "https://i.pinimg.com/originals/ad/7b/af/ad7baf72e5de1edcf100ed66b05fb9a7.png"
+    },
+    {
+      "title_search": "Cars",
+      "image_url": "https://cdn.luxe.digital/media/2020/12/15110730/fastest-cars-world-2021-hennessey-venom-GT-luxe-digital%402x.jpg"
+    },
+    {
+      "title_search": "Pink",
+      "image_url": "https://image-cdn.medkomtek.com/3Q1KHEGYxzjKcXpKdba86CoKPzw=/1200x675/smart/klikdokter-media-buckets/medias/2322276/original/063819600_1608803266-green-palm-leaves-pink.jpg"
+    },
+    {
+      "title_search": "Pink Love",
+      "image_url": "https://www.teahub.io/photos/full/0-1055_pink-love-wallpaper-android-with-hd-resolution-pink.jpg"
+    },
+    {
+      "title_search": "Vaporwape",
+      "image_url": "https://voidspeakcom.files.wordpress.com/2019/12/arawn-dystopia-vaporwave-basic-font.jpg"
+    },
+    {
+      "title_search": "Animal",
+      "image_url": "https://m.media-amazon.com/images/I/91ukfFeq21L._AC_SX450_.jpg"
+    },
+    {
+      "title_search": "Graffiti",
+      "image_url": "https://dbdzm869oupei.cloudfront.net/img/alfombretaratoli/preview/21282.png"
+    },
+    {
+      "title_search": "Tato",
+      "image_url": "https://cdn.kibrispdr.org/data/wallpaper-tato-3d-0.jpg"
+    },
+    {
+      "title_search": "Funny",
+      "image_url": "https://image.winudf.com/v2/image1/ZW1vamkud2FsbHBhcGVycy50enJfc2NyZWVuXzJfMTU1Mjg3Nzk4OV8wMzI/screen-2.jpg?fakeurl=1&type=.jpg"
+    },
+    {
+      "title_search": "Black&White",
+      "image_url": "https://wallpapercave.com/wp/wp5126998.jpg"
+    },
+    {
+      "title_search": "Fall",
+      "image_url": "https://www.fourstateshomepage.com/wp-content/uploads/sites/36/2020/09/fall-colors.jpg?w=2560&h=1440&crop=1"
+    },
+    {
+      "title_search": "Technology",
+      "image_url": "https://albukairiyah.com/wp-content/uploads/2021/04/Technology.jpg"
+    },
+      "title_search": "Cool",
+      "image_url": "https://www.nawpic.com/media/2020/cool-nawpic-17.jpg"
+    },
+    {
+      "title_search": "Drawing",
+      "image_url": "https://images.unsplash.com/photo-1603344204980-4edb0ea63148?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZHJhd2luZ3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+    },
+    {
+      "title_search": "Moon",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/FullMoon2010.jpg"
+    },
+    {
+      "title_search": "Winter",
+      "image_url": "https://images.theconversation.com/files/306448/original/file-20191211-95111-fbz9rf.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=900.0&fit=crop"
+    },
+    {
+      "title_search": "Nature",
+      "image_url": "https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2017/11/04133712/waterfall.jpg"
+    },
+    {
+      "title_search": "Neon",
+      "image_url": "https://www.factorled.com/8203-tm_large_default/8w-neon-led-flexible-12v-coil-25m-8mm-pink-factorled.jpg"
+    },
+    {
+      "title_search": "Quotes",
+      "image_url": "https://parade.com/wp-content/uploads/2020/01/dont-give-up-quotes.jpg"
+    },
+    {
+      "title_search": "Beach",
+      "image_url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/beach-quotes-1559667853.jpg"
+    },
+    {
+      "title_search": "Halloween",
+      "image_url": "https://ultimagz.com/wp-content/uploads/Halloween-pumpkins.jpg"
+    },
+    {
+      "title_search": "Valentine Day",
+      "image_url": "https://geotimes.id/wp-content/uploads/2017/08/valentines-day-1581614371.jpg"
+    },
+    {
+      "title_search": "Sport",
+      "image_url": "https://ec.europa.eu/eurostat/documents/6921402/9104237/Shutterstock_Lisa_Kolbasa.png/f988f8b6-4138-4a91-9761-885bacab0ce2?t=1533725002000"
+    },
+    {
+      "title_search": "Scary Wallpaper",
+      "image_url": "https://i.pinimg.com/originals/71/a8/f2/71a8f22aa7f3c2fb04664c751f63c618.jpg"
+    },
+    {
+      "title_search": "Summer",
+      "image_url": "https://i.pinimg.com/736x/f5/91/25/f591251cfd86b3b39e3317eddc7284fd--nautical-wallpaper-nature-wallpaper.jpg"
+    },
+    {
+      "title_search": "Logos",
+      "image_url": "https://animasiku.id/wallpaper/wallpaper/20210914/new-superman-logo-wallpapers-wallpaper-cavesuperman-emblem-wallpaper-preview.webp"
+    },
+    {
+      "title_search": "Music",
+      "image_url": "https://image.freepik.com/free-vector/musical-notes-frame-with-text-space_1017-32857.jpg"
+    },
+    {
+      "title_search": "Patterns",
+      "image_url": "https://images.pexels.com/photos/1566909/pexels-photo-1566909.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "title_search": "People",
+      "image_url": "https://wallpapercave.com/wp/wp1933849.jpg"
+    },
+    {
+      "title_search": "Spiritual",
+      "image_url": "https://cdn.tinybuddha.com/wp-content/uploads/2017/02/Spirituality.png"
+    },
+    {
+      "title_search": "Space",
+      "image_url": "https://img.freepik.com/free-vector/color-seamless-space-pattern_102902-2360.jpg?size=626&ext=jpg"
+    },
+    {
+      "title_search": "MotoGp",
+      "image_url": "https://ridertua.com/wp-content/uploads/2020/01/MotoGP-rider.jpg"
+    }
+  ]
+}
